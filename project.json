@@ -1,6 +1,6 @@
 {
-  "name": "name_Datetime_now",
-  "description": "Here we can save the name with Datetime.Now function as a file name. Use Replace function to replace \"/\" by \"_\" & \":\" by \"_\"",
+  "name": "Data_scrapping_Notepad",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.17.0-preview]",
@@ -42,13 +42,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "f0a64e91-89e5-4a1a-b667-248cc978726c",
+      "uniqueId": "4d624214-cf81-4e80-b954-c1440e0efb36",
       "input": [],
       "output": []
     }
